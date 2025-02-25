@@ -1,2 +1,2 @@
 # ComputerCraft
-Some lua code to manage code in MCComputerCraft
+Some lua code for version control in MCComputerCraft
